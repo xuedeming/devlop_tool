@@ -14,7 +14,7 @@ class Mysql:
         # )
         self.content = pymysql.Connect(
             host='xxx.xxx.xxx.xxx',
-            port=3306,
+            port=6,
             user='xxx',
             passwd='xxx',
             db='pt_edu',
